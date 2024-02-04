@@ -1,5 +1,5 @@
-layout: page
-title: "Applications"
+collection: applications
+type: "Applications"
 permalink: htpps://kudzai383.github.io
 
 # Application of Predictive Analysis Spreadsheet on Easy Egg StartUp idea
