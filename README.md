@@ -1,7 +1,5 @@
 
-# UNITAR-Project-Business-Plan: Empowering SMEs: A Cost-Effective Excel-Based Solution for Predictive Financial Analysis in Easy Egg Startup"
-
-### Empowering SMEs: A Cost-Effective Excel-Based Solution for Predictive Financial Analysis in Easy Egg Startup"
+# Empowering SMEs: A Cost-Effective Excel-Based Solution for Predictive Financial Analysis in Easy Egg Startup"
 
 The majority of predictive analysis tools come with a hefty price tag, making it challenging for SMEs to access the means to calculate their break-even points. Many small and medium enterprises (SMEs) commence their operations without the benefit of comprehensive business projections derived from market data. In response to this, I have utilized an Excel spreadsheet to forecast the financials for my startup, Easy Egg. This pragmatic approach empowers SMEs, enabling them to leverage Excel tools and formulas to persuasively present their financial projections when seeking investments or loans from banks. The application of predictive analysis becomes pivotal for SMEs and entrepreneurs, facilitating well-informed decisions regarding the timeline for achieving profitability based on concrete numerical data rather than mere intuition.
 
