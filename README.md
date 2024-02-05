@@ -86,8 +86,6 @@ This business plan centers around implementing an efficient automated plant for 
 
 *   **Design:** Eric designs the system version. Iddo analyzes and creates the BoM.
 *   **Development:** We order all needed supplies from Sannovo.
-*   **Land Testing:** We check each and every part of the new Spacecraft individually.
-*   **Space Testing:** All Spacecrafts travel at least once before they officially take off.
 
 #### b. Risks
 
